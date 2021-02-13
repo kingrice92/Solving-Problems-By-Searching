@@ -8,3 +8,11 @@ python uniformCostSeach.py
 python aStarSearch.py
 
 In both cases, the shortest path, list of explored nodes, and number of nodes explored, and maximum queue size should be returned.
+
+Additionally, the following python libraries are needed to execute the code:
+
+pandas
+
+math
+
+queue
