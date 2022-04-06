@@ -1,4 +1,4 @@
-# CSCI6511_Project1
+# Solving-Problems-By-Searching
 Repository for search algorithms created for project 1 of CSCI 6511 at GW in Spring 2021.
 
 In order to test the algorithms, make sure that graph.py, aStarSearch.py, uniformCostSearch.py and p1_graph.txt are all in the same directory. Navigate to that directory from the terminal and execute the two search methods by entering the following:
